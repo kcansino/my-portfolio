@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Satoshi Light'; 
+    src: url('../assets/fonts/satoshi/Satoshi-Light.otf');
+}
+@font-face {
+    font-family: 'Satoshi Regular'; 
+    src: url('../assets/fonts/satoshi/Satoshi-Regular.otf');
+}
+@font-face {
+    font-family: 'Satoshi Bold'; 
+    src: url('../assets/fonts/satoshi/Satoshi-Bold.otf');
+}
+@font-face {
+    font-family: 'Satoshi Black'; 
+    src: url('../assets/fonts/satoshi/Satoshi-Black.otf');
+}
+@font-face {
+    font-family: 'OpenSauceSans Black'; 
+    src: url('../assets/fonts/opensaucesans/OpenSauceSans-Black.ttf');
+}
