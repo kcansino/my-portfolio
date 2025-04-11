@@ -2,10 +2,6 @@ $(document).ready(function(){
     
     AOS.init();
 
-    lightbox.option({
-        'showImageNumberLabel':false
-    })
-
     $('.works-owl-carousel').owlCarousel({
         loop:true,
         margin:10,
